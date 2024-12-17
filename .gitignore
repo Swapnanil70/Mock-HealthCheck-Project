@@ -1,0 +1,20 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+node_modules
+dist
+build
+
+# IDE files
+.vscode
+.idea
+
+# Logs
+*.log
+
+# Sensitive files
+config.json
+secrets.json
+credentials.json
